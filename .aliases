@@ -1,0 +1,4 @@
+alias python="python3"
+alias pf="cd $HOME/Projects"
+alias gap="gapa"
+alias gdc="gd --cached"
