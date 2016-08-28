@@ -1,0 +1,20 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/iPlastic.tmTheme",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		100
+	],
+	"save_on_focus_lost": true,
+	"soda_classic_tabs": true,
+	"tab_size": 2,
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+	"word_wrap": true
+}
