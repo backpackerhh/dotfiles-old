@@ -1,6 +1,12 @@
 --database=postgresql
 --webpack
---skip-action-cable
---skip-spring
+--skip-sprockets
+--skip-javascript
 --skip-coffee
 --skip-turbolinks
+--skip-action-mailer
+--skip-action-cable
+--skip-spring
+--skip-listen
+--skip-test
+--skip-keeps
