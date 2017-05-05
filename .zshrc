@@ -49,7 +49,7 @@ DISABLE_AUTO_TITLE="true"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(bundler git)
+plugins=(bundler git rake)
 
 # User configuration
 
@@ -91,5 +91,8 @@ export PATH="$PATH:/usr/local/bin/elixir"
 export PATH="/usr/local/heroku/bin:$PATH"
 
 # chruby
-source /usr/local/share/chruby/chruby.sh
-source /usr/local/share/chruby/auto.sh
+# source /usr/local/share/chruby/chruby.sh
+# source /usr/local/share/chruby/auto.sh
+
+# RVM
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"
