@@ -1,4 +1,4 @@
 alias python="python3"
-alias pf="cd $HOME/Projects"
+alias pf="cd $HOME/Documents/Projects"
 alias gap="gapa"
 alias gdc="gd --cached"
